@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://img3.stockfresh.com/files/j/juhku/m/26/6022735_stock-photo-aged-gray-wood-texture-background.jpg) ;
+}
+h1{
+    color:bleck;
+    font-family: Segoe Print;
+    font-size: 40px;
+    font-style: italic;
+    padding:35px;
+    margin:-12px;
+    margin-left: 200px;
+    margin-bottom:20px;
+}
+
+form
+{
+    float:left;
+    margin-left: 20px;
+    margin-top: 150px;
+    width:40%;
+    border:1px solid gray;
+    padding:12px;
+    background-color:#EEEEEE;
+    border-radius:10px;
+}
+label
+{
+    display:block;
+    font-family: Segoe Print;
+    float:left;
+    margin-right: 40px;
+    width:60%;
+    clear:both;
+}
+input
+{
+    display: inline-block;
+    float:right;
+    margin-right: 90px;
+    width:90%;
+    margin:3px;
+
+}
+table
+{
+    float:right;
+    font-weight: 20px;
+    text-align: center;
+    width:50%;
+    margin-right: 12px;
+    border:1px solid gray;
+
+}
+
+caption
+{
+    border:1px solid gray;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+ul{
+    float:right;
+    font-family:Segoe Print ;
+    font-size: 20px;
+    margin-right: 430px;
+     border:1px solid gray;
+     font-weight: 20px;
+     margin-top: 280px;
+}
+     
